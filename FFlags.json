@@ -1,3 +1,4 @@
 {
-    "IPhoneXTopBarFix": true
+    "IPhoneXTopBarFix": {"ClassName": "StringValue", "Value": true},
+    "RemasterVehicleAccess": {"ClassName": "Folder", "Value": [51787703, 2480807]}
 }
