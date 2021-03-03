@@ -1,4 +1,4 @@
 {
-    "IPhoneXTopBarFix": {"Class": "BoolValue", "Value": true},
-    "RemasterVehicleAccess": {"Class": "Folder", "Value": [51787703, 2480807]}
+    "IPhoneXTopBarFix": {"ClassName": "BoolValue", "Value": true},
+    "RemasterVehicleAccess": {"ClassName": "Folder", "Value": [51787703, 2480807]}
 }
