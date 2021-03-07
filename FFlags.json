@@ -3,5 +3,5 @@
     "RemasterVehicleAccess": {"ClassName": "Folder", "Value": [51787703, 2480807]},
     "CustomIconSystem": {"ClassName": "BoolValue", "Value": false},
     "ParallelLua": {"ClassName": "BoolValue", "Value": false},
-    "ObjectInfo": {"ClassName": "BoolValue", "Value": false}
+    "ObjectInfo": {"ClassName": "BoolValue", "Value": true}
 }
