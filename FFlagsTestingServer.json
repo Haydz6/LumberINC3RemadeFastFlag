@@ -5,5 +5,5 @@
     "ParallelLua": {"ClassName": "BoolValue", "Value": false},
     "ObjectInfo": {"ClassName": "BoolValue", "Value": true},
     "NewSounds": {"ClassName": "BoolValue", "Value": false},
-    "CrossPlatformUI": {"ClassName": "BoolValue", "Value": false}
+    "CrossPlatformUI": {"ClassName": "BoolValue", "Value": true}
 }
