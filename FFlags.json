@@ -6,5 +6,6 @@
     "ObjectInfo": {"ClassName": "BoolValue", "Value": true},
     "NewSounds": {"ClassName": "BoolValue", "Value": false},
     "CrossPlatformUI": {"ClassName": "BoolValue", "Value": false},
-    "TriggerTruckButtonsOnce": {"ClassName": "BoolValue", "Value": true}
+    "TriggerTruckButtonsOnce": {"ClassName": "BoolValue", "Value": true},
+    "VRSupport": {"ClassName": "BoolValue", "Value": false}
 }
