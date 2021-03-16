@@ -7,5 +7,6 @@
     "NewSounds": {"ClassName": "BoolValue", "Value": false},
     "CrossPlatformUI": {"ClassName": "BoolValue", "Value": true},
     "TriggerTruckButtonsOnce": {"ClassName": "BoolValue", "Value": true},
-    "VRSupport": {"ClassName": "BoolValue", "Value": true}
+    "VRSupport": {"ClassName": "BoolValue", "Value": true},
+    "VRSupportSelective": {"ClassName": "Folder", "Value": [51787703]}
 }
