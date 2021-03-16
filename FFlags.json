@@ -8,5 +8,7 @@
     "CrossPlatformUI": {"ClassName": "BoolValue", "Value": false},
     "TriggerTruckButtonsOnce": {"ClassName": "BoolValue", "Value": true},
     "VRSupport": {"ClassName": "BoolValue", "Value": false},
-    "VRSupportSelective": {"ClassName": "Folder", "Value": [51787703]}
+    "VRSupportSelective": {"ClassName": "Folder", "Value": [51787703]},
+    "ImprovedSettingsUI": {"ClassName": "BoolValue", "Value": false},
+    "ImprovedModcallUI": {"ClassName": "BoolValue", "Value": false}
 }
