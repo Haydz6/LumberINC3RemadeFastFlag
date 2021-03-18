@@ -9,6 +9,6 @@
     "TriggerTruckButtonsOnce": {"ClassName": "BoolValue", "Value": true},
     "VRSupport": {"ClassName": "BoolValue", "Value": true},
     "VRSupportSelective": {"ClassName": "Folder", "Value": [51787703]},
-    "ImprovedSettingsUI": {"ClassName": "BoolValue", "Value": false},
+    "ImprovedSettingsUI": {"ClassName": "BoolValue", "Value": true},
     "ImprovedModcallUI": {"ClassName": "BoolValue", "Value": true}
 }
