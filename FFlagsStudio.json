@@ -11,5 +11,5 @@
     "VRSupportSelective": {"ClassName": "Folder", "Value": [51787703]},
     "ImprovedSettingsUI": {"ClassName": "BoolValue", "Value": true},
     "ImprovedModcallUI": {"ClassName": "BoolValue", "Value": true},
-    "AmbientSounds": {"ClassName": "BoolValue", "Value": true}
+    "AmbientSounds": {"ClassName": "BoolValue", "Value": false}
 }
