@@ -12,5 +12,5 @@
     "ImprovedSettingsUI": {"ClassName": "BoolValue", "Value": true},
     "ImprovedModcallUI": {"ClassName": "BoolValue", "Value": true},
     "AmbientSounds": {"ClassName": "BoolValue", "Value": false},
-    "ImprovedPlankLagPrevention": {"ClassName": "BoolValue", "Value": false}
+    "ImprovedPlankLagPrevention": {"ClassName": "BoolValue", "Value": true}
 }
