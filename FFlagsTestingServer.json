@@ -13,5 +13,5 @@
     "ImprovedModcallUI": {"ClassName": "BoolValue", "Value": false},
     "AmbientSounds": {"ClassName": "BoolValue", "Value": false},
     "ImprovedPlankLagPrevention": {"ClassName": "BoolValue", "Value": true},
-    "KeepPartsOnSmartConveyorAwake": {"ClassName": "BoolValue", "Value": false}
+    "KeepPartsOnSmartConveyorAwake": {"ClassName": "BoolValue", "Value": true}
 }
