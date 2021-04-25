@@ -14,5 +14,6 @@
     "AmbientSounds": {"ClassName": "BoolValue", "Value": false},
     "ImprovedPlankLagPrevention": {"ClassName": "BoolValue", "Value": true},
     "KeepPartsOnSmartConveyorAwake": {"ClassName": "BoolValue", "Value": true},
-    "XBOXAddFriends": {"ClassName": "BoolValue", "Value": true}
+    "XBOXAddFriends": {"ClassName": "BoolValue", "Value": true},
+    "XBOXAddFriendsV2": {"ClassName": "BoolValue", "Value": true}
 }
