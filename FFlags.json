@@ -13,7 +13,7 @@
     "ImprovedModcallUI": {"ClassName": "BoolValue", "Value": false},
     "AmbientSounds": {"ClassName": "BoolValue", "Value": false},
     "ImprovedPlankLagPrevention": {"ClassName": "BoolValue", "Value": true},
-    "KeepPartsOnSmartConveyorAwake": {"ClassName": "BoolValue", "Value": true},
+    "KeepPartsOnSmartConveyorAwake": {"ClassName": "BoolValue", "Value": false},
     "XBOXAddFriends": {"ClassName": "BoolValue", "Value": false},
     "XBOXAddFriendsV2": {"ClassName": "BoolValue", "Value": true},
     "LobbyOcclusion": {"ClassName": "BoolValue", "Value": false},
