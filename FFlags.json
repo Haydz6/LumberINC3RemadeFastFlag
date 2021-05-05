@@ -17,5 +17,6 @@
     "XBOXAddFriends": {"ClassName": "BoolValue", "Value": false},
     "XBOXAddFriendsV2": {"ClassName": "BoolValue", "Value": true},
     "LobbyOcclusion": {"ClassName": "BoolValue", "Value": false},
-    "ForestOcclusion": {"ClassName": "BoolValue", "Value": false}
+    "ForestOcclusion": {"ClassName": "BoolValue", "Value": false},
+    "TrainMissingFix": {"ClassName": "BoolValue", "Value": false}
 }
