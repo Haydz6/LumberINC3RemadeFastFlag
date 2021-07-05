@@ -19,5 +19,5 @@
     "LobbyOcclusion": {"ClassName": "BoolValue", "Value": true},
     "ForestOcclusion": {"ClassName": "BoolValue", "Value": true},
     "TrainMissingFix": {"ClassName": "BoolValue", "Value": true},
-    "OptimizedTreeGeneration": {"ClassName": "BoolValue", "Value": false}
+    "OptimizedTreeGeneration": {"ClassName": "BoolValue", "Value": true}
 }
