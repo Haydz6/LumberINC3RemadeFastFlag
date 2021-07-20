@@ -1,10 +1,9 @@
 {
     "RemasterVehicleAccess": [51787703, 2480807],
-    "CustomIconSystem": true,
-    "ParallelLua": false,
+    "ParallelLua": true,
     "KeepPartsOnSmartConveyorAwake": true,
-    "TrainMissingFix": false,
-    "OptimizedTreeGeneration": false,
-    "DisableWhileTrueDoPlankFreezeFix": false,
+    "TrainMissingFix": true,
+    "OptimizedTreeGeneration": true,
+    "DisableWhileTrueDoPlankFreezeFix": true,
     "FeedbackSystemEnabled": false
 }
