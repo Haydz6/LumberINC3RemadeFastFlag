@@ -7,5 +7,5 @@
     "DisableWhileTrueDoPlankFreezeFix": true,
     "FeedbackSystemEnabled": false,
     "NewClouds": true,
-    "NewAtmosphere": true
+    "NewAtmosphere": false
 }
