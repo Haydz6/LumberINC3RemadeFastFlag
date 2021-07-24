@@ -5,5 +5,6 @@
     "TrainMissingFix": false,
     "OptimizedTreeGeneration": false,
     "DisableWhileTrueDoPlankFreezeFix": false,
-    "FeedbackSystemEnabled": false
+    "FeedbackSystemEnabled": false,
+    "NewVisuals": false
 }
