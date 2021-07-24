@@ -6,5 +6,6 @@
     "OptimizedTreeGeneration": true,
     "DisableWhileTrueDoPlankFreezeFix": true,
     "FeedbackSystemEnabled": false,
-    "NewVisuals": true
+    "NewClouds": true,
+    "NewAtmosphere": true
 }
