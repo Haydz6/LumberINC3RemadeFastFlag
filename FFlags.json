@@ -7,5 +7,6 @@
     "DisableWhileTrueDoPlankFreezeFix": false,
     "FeedbackSystemEnabled": false,
     "NewClouds": false,
-    "NewAtmosphere": false
+    "NewAtmosphere": false,
+    "FastMoveMillTruck": false
 }
