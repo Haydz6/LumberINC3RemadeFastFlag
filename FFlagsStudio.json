@@ -5,7 +5,6 @@
     "TrainMissingFix": true,
     "OptimizedTreeGeneration": true,
     "DisableWhileTrueDoPlankFreezeFix": true,
-    "FeedbackSystemEnabled": false,
     "NewClouds": true,
     "NewAtmosphere": false,
     "FastMoveMillTruck": true
