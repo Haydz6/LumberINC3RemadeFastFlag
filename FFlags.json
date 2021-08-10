@@ -7,6 +7,5 @@
     "DisableWhileTrueDoPlankFreezeFix": false,
     "NewClouds": false,
     "NewAtmosphere": false,
-    "FastMoveMillTruck": false,
-    "MakeJointsOnce": false
+    "FastMoveMillTruck": false
 }
