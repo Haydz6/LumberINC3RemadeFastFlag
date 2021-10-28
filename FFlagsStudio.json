@@ -7,5 +7,6 @@
     "DisableWhileTrueDoPlankFreezeFix": true,
     "NewClouds": true,
     "NewAtmosphere": false,
-    "FastMoveMillTruck": true
+    "FastMoveMillTruck": true,
+    "2FABeta": [51787703, 114440317]
 }
