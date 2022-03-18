@@ -10,5 +10,6 @@
     "FastMoveMillTruck": true,
     "2FABeta": [51787703, 114440317],
     "AntiCheatWarpBack": false,
-    "AntiCheatDebugInfo": true
+    "AntiCheatDebugInfo": true,
+    "FixVehiclesSpawnOnRoofWithCustomMoveTo": true
 }
