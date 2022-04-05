@@ -11,5 +11,6 @@
     "2FABeta": [51787703, 114440317],
     "AntiCheatWarpBack": false,
     "AntiCheatDebugInfo": true,
-    "FixVehiclesSpawnOnRoofWithCustomMoveTo": true
+    "FixVehiclesSpawnOnRoofWithCustomMoveTo": true,
+    "FixToolKillExploit": false
 }
