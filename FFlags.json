@@ -12,5 +12,5 @@
     "AntiCheatWarpBack": false,
     "AntiCheatDebugInfo": true,
     "FixVehiclesSpawnOnRoofWithCustomMoveTo": true,
-    "FixToolKillExploit": false
+    "FixToolKillExploit": true
 }
