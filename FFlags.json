@@ -14,7 +14,7 @@
     "AntiCheatLog": false,
     "FixVehiclesSpawnOnRoofWithCustomMoveTo": true,
     "FixToolKillExploit": true,
-    "RunDexDetection": true,
+    "RunDexDetection": false,
     "LogDexDetection": true,
     "BanOnDexDetection": false,
     "KickOnDexDetection": false
