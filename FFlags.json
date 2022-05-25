@@ -17,5 +17,6 @@
     "RunDexDetection": false,
     "LogDexDetection": true,
     "BanOnDexDetection": false,
-    "KickOnDexDetection": false
+    "KickOnDexDetection": false,
+    "TopBarVCBetaButtonFix": true
 }
