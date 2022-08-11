@@ -18,5 +18,7 @@
     "LogDexDetection": true,
     "BanOnDexDetection": false,
     "KickOnDexDetection": false,
-    "TopBarVCBetaButtonFix": true
+    "TopBarVCBetaButtonFix": true,
+    "AltDetectionEnabled": true,
+    "LogAltDetections": true
 }
